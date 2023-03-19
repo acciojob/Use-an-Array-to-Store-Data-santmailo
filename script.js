@@ -1,1 +1,2 @@
-// let yourArray= [12,"sunil",true, 0, "grow"];
+var yourArray= ["Sunil",11, true, "grow",false];
+document.getElementById("text").innerText=yourArray;
